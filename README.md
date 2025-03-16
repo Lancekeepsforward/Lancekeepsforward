@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Lancekeepsforward
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning c++/python/statistics
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science, Finance
+- 🌱 I’m currently learning Python/Statistics/Neural Network/Stochastic Process/Analysis of Algorithm
 - 📫 How to reach me jl6900@columbia.edu
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: ...
 
 <!---
 Lancekeepsforward/Lancekeepsforward is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
